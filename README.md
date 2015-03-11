@@ -2,7 +2,7 @@ Opauth-Slack
 =============
 [Opauth][1] strategy for Slack authentication.
 
-Implemented based on https://github.com/Slack/bcx-api
+Implemented based on https://api.slack.com/docs/oauth
 
 Getting started
 ----------------
@@ -19,7 +19,7 @@ Getting started
    ```bash
    {
        "require": {
-           "t1mmen/opauth-Slack": "*"
+           "t1mmen/opauth-slack": "*"
        }
    }
    ```
@@ -30,7 +30,7 @@ Getting started
 
 3. Configure Opauth-Slack strategy with at least `Client ID` and `Client Secret`.
 
-4. Direct user to `http://path_to_opauth/Slack` to authenticate
+4. Direct user to `http://path_to_opauth/slack` to authenticate
 
 Strategy configuration
 ----------------------
