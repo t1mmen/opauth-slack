@@ -1,7 +1,7 @@
 {
     "name": "t1mmen/opauth-slack",
     "description": "Basecamp strategy for Slack",
-    "keywords": ["authentication","auth","slack"],
+    "keywords": ["authentication","auth","slack", "opauth", "oauth"],
     "homepage": "https://github.com/t1mmen/opauth-slack",
     "license": "MIT",
     "authors": [

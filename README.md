@@ -48,6 +48,6 @@ Required parameters:
 License
 ---------
 Opauth-Slack is MIT Licensed
-Copyright © 2014 Timm Stokke (http://timm.stokke.me)
+Copyright © 2015 Timm Stokke (http://timm.stokke.me)
 
 [1]: https://github.com/opauth/opauth
