@@ -1,0 +1,22 @@
+{
+    "name": "t1mmen/opauth-slack",
+    "description": "Basecamp strategy for Slack",
+    "keywords": ["authentication","auth","slack"],
+    "homepage": "https://github.com/t1mmen/opauth-slack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timm Stokke",
+            "email": "timm@stokke.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+        "opauth/opauth": ">=0.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "."
+        }
+    }
+}
