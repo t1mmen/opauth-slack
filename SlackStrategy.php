@@ -28,7 +28,7 @@ class SlackStrategy extends OpauthStrategy {
 	/**
 	 * Optional config keys, without predefining any default values.
 	 */
-	public $optionals = array('redirect_uri', 'scope', 'state');
+	public $optionals = array('redirect_uri', 'scope', 'state', 'team');
 
 	/**
 	 * Optional config keys with respective default values, listed as associative arrays
